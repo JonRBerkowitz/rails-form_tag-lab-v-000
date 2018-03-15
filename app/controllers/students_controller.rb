@@ -17,4 +17,3 @@ class StudentsController < ApplicationController
   end
 
 end
-title: params[:post][:title], description: params[:post][:description]
